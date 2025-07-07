@@ -27,7 +27,7 @@ body{
 .logo{
     height: 50px;
     width: 90%;
-    background-image: url(amazonlogo.png);
+    background-image: url(Images/amazonlogo.png);
     background-size: cover;
    
 }
@@ -219,7 +219,7 @@ body{
 /** hero section **/
 .herosection{
     height:500px;
-    background-image: url("cover4.png");
+    background-image: url("Images/cover4.png");
     background-size: cover;
     background-position: 100% 10%;
    /** display: flex;
@@ -297,7 +297,7 @@ body{
 .img1{
     height:288;
     width:240;
-    background-image: url(box1.png);
+    background-image: url(Images/box1.png);
     background-size:cover;
    
     background-repeat: no-repeat;
@@ -305,19 +305,19 @@ body{
 
 }
 .img2{
-    background-image: url(box2.png);
+    background-image: url(Images/box2.png);
     background-size:cover;
     background-repeat: no-repeat;
     background-position: 100%;
 }
 .img3{
-    background-image: url(box3.png);
+    background-image: url(Images/box3.png);
     background-size:cover;
     background-repeat: no-repeat;
     background-position: 80% 100%;
 }
 .img4{
-    background-image: url(box4.png);
+    background-image: url(Images/box4.png);
     background-size:cover;
     background-repeat: no-repeat;
     background-position: 70%;
@@ -365,39 +365,38 @@ body{
     margin:10px;
 }
 .item1{
-    background-image: url(item1.png);
+    background-image: url(Images/item1.png);
     background-size:cover;
     background-repeat: no-repeat;
     background-position: 70%;
 }
 .item2{
-    background-image: url(item2.png);
+    background-image: url(Images/item2.png);
     background-size:cover;
     background-repeat: no-repeat;
     background-position: 10%;
 }
 .item3{
-    background-image: url(item3.png);
+    background-image: url(Images/item3.png);
     background-size:cover;
     background-repeat: no-repeat;
     background-position: 50% 60%;
 }
 
 .item4{
-    background-image: url(item4.png);
+    background-image: url(Images/item4.png);
     background-size:cover;
     background-repeat: no-repeat;
     background-position: 48% 30%;
 }
 .item5{
-    background-image: url(item5.png);
+    background-image: url(Images/item5.png);
     background-size:cover;
     background-repeat: no-repeat;
     background-position: 48% 30%;
 }
 .login{
     height:148px;
-   /** width:1100px;**/
     margin-top: 20px;
     background-color: white;
     display:flex;
@@ -477,7 +476,7 @@ footer .panel3{
     width:100px;
     margin:0px 90px 0px 380px;
     background-color: aquamarine;
-    background-image: url(logo2.png);
+    background-image: url(Images/logo2.png);
     background-size: 150px;
     background-position: 50% 53%;
 }
@@ -545,7 +544,7 @@ footer .panel3{
     height:12px;
     width:15%;
     border:2px solid rgb(92, 92, 94);
-    background-image: url(flag.png);
+    background-image: url(Images/flag.png);
     background-size: 33px;
     background-position: 50% 50%;
 }
